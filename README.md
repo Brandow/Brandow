@@ -25,7 +25,7 @@
 
 <br>
 
-## :iphone: Minhas redes sociais
+## :iphone: Redes sociais
 <p align="center">
 	<a href="mailto:brandow.cgrj@hotmail.com"><img img src="https://img.shields.io/badge/Outlook-blue.svg?style=plastic&logo=microsoftoutlook&logoColor=white" alt="Outlook"/></a>
 	<a href="https://github.com/Brandow"><img src="https://img.shields.io/badge/Github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -41,13 +41,9 @@
 
 <p align="center"> 
   &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
+  <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%232370ED.svg?style=plastic&logo=PHP&logoColor=white">
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
+  <img alt="C++" src="https://img.shields.io/badge/Mysql%20-%2300599C.svg?style=plastic&logo=mysql%2B%2B&logoColor=white">
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">

@@ -13,10 +13,10 @@
 
 ## :sassy_man:  Sobre Mim
 - :speech_balloon: Tenho 26 anos, atualmente trabalho como analista de suporte nivel 3 na empresa `Sonda IT`
-- :school: Sou formado em técnico pela escola `ETERJ` e estou buscando reingressar na faculdade.
-- :technologist: Adoro resolver problemas ou facilitar o trabalho das pessoas por meio de uma `aplicação`.
+- :school: Sou formado em técnico de informática pela escola `ETERJ` e estou buscando reingressar na faculdade.
+- :technologist: Adoro resolver problemas ou agilizar processos por meio de uma `aplicação`.
 - :computer: Sou criativo, proativo, esforçado e estudioso.
-- :student: Atualmente estou estudando a tecnologia: `PHP` | `Mysql` | `Ajax`.
+- :student: Atualmente estou estudando a tecnologia: `PHP`.
 
 <br>
 

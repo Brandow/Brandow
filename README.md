@@ -11,8 +11,8 @@
 </p>
 
 
-## :sassy_man:  About me
-- :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
+## :sassy_man:  Sobre Mim
+- :school: Estou cursando `Tecnologia da Informação` na Faculdade Estácio, sou formado em técnico pela escola `ETERJ`
 - :trophy: `ACPC` Finalist 2021
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces`
